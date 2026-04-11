@@ -114,7 +114,7 @@
 ## 安装
 
 ```bash
-npx skills add OPH-SERVER/tangyuwen-skill
+npx skills add NoMTF/tangyuwen-skill
 ```
 
 支持 Claude Code、Cursor、GitHub Copilot、Cline、OpenClaw、Hermes Agent 等 45+ AI 工具（skills.sh 标准）。
