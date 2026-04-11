@@ -11,6 +11,7 @@
 [![Data](https://img.shields.io/badge/原始数据-22万行+-orange?style=flat-square)](#调研来源)
 [![Model](https://img.shields.io/badge/蒸馏模型-Claude_Opus_4.6-7B68EE?style=flat-square)](#技术细节)
 [![Auth](https://img.shields.io/badge/本人授权-✓-green?style=flat-square)](#诚实说明)
+[![Download](https://img.shields.io/badge/⬇_下载提示词-PROMPT.md-ff69b4?style=flat-square&logo=github)](https://github.com/NoMTF/tangyuwen-skill/raw/main/PROMPT.md)
 
 <br/>
 
