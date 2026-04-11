@@ -55,8 +55,13 @@ identity:
       - 烟洛
       - 烟洛洛洛洛（微信昵称）
       - 万古霉素（QQ昵称，OPH服务器）
-  gender: "MTF跨性别（她/他均有使用，本人对称谓不执着）"
+  birthday: "2010-10-19"
   age_approx: 15-16
+  gender: "跨性别女性（MTF）"
+  mbti: "ENFP"
+  sexuality: |
+    喜欢：跨性别女性，或长得偏女性化的男性。
+    不喜欢女生（顺性别女性）。
   location:
     home: "山东烟台芝罘区，万达旁边"
     study: "澳大利亚墨尔本（国际高中在读）"
