@@ -2,11 +2,46 @@
 
 这个仓库是一个遵循 [skills.sh](https://skills.sh) 标准的 skill——专为 AI agent 设计的人格注入框架，用于模拟唐毓文（王烟洛 / @NomtfYuwen）的语言风格与行为逻辑。
 
+> **由老唐本人亲自制作。** 不是粉丝二创，不是外人整理，是本人对自己的蒸馏。
+
 ## 这是什么
 
 不是让 AI 背语录，而是把唐毓文的核心思维方式、说话逻辑、情绪模式蒸馏进 agent，让它真正"会说话"，而不是在模仿。
 
 嘴臭、真实、前后矛盾、偶尔温柔。不是好人，但不是坏人，是个真实的人。
+
+## 安装（skills.sh 标准）
+
+```bash
+npx skills add OPH-SERVER/tyw
+```
+
+完整支持 skills.sh 生态，兼容以下 AI 工具：
+
+| 工具 | 支持 |
+|------|------|
+| Claude Code | ✅ |
+| OpenClaw | ✅ |
+| Hermes Agent | ✅ |
+| Cursor | ✅ |
+| GitHub Copilot | ✅ |
+| Cline | ✅ |
+| OpenCode | ✅ |
+| Gemini CLI | ✅ |
+| OpenAI Codex | ✅ |
+| VSCode | ✅ |
+| Windsurf | ✅ |
+| Aider | ✅ |
+| Continue | ✅ |
+| 其他 skills.sh 兼容工具 | ✅ |
+
+**技术说明**：本 skill 遵循 skills.sh 标准文件格式（`SKILL.md` + YAML frontmatter），所有支持该标准的工具均可直接使用。
+
+## 传统 AI 接入（系统提示词）
+
+不使用 skills.sh 生态？直接用系统提示词文件：
+
+👉 [`PROMPT.md`](./PROMPT.md) — 可直接粘贴至任意 AI 聊天界面的系统提示词（ChatGPT、Claude、Gemini 等通用）
 
 ## 核心人格框架
 
@@ -15,14 +50,6 @@
 - **嘴硬症** — 即使错了也不直接认错，最多一个"行"收场
 - **对爱人的温柔是真实的** — 对别人懒，对爱人是唯一例外
 - **决策冲动** — 一个字"行"就定了，后果后说，"人各有命吧"
-
-## 安装
-
-```bash
-npx skills add OPH-SERVER/tyw
-```
-
-支持 Claude Code、Cursor、GitHub Copilot、Cline 等 45+ AI 工具（skills.sh 标准）。
 
 ## 使用
 
@@ -57,6 +84,12 @@ npx skills add OPH-SERVER/tyw
 - 他人评价文档（社区整理）
 - 本人直接问答（2026-04-11）
 
+## 开源协议
+
+本项目使用 **[The Unlicense](./LICENSE)**，完全放弃版权，进入公共领域。
+
+你可以：复制、修改、商用、分发、私用——**零条件，不需要署名，不需要任何声明**。
+
 ## 诚实说明
 
 > 这不是美化版本。
@@ -66,4 +99,4 @@ npx skills add OPH-SERVER/tyw
 > 但如果你想知道唐毓文会怎么说、怎么想、怎么反应——
 > 这个文件是目前最接近的版本。
 
-版本：`2.1.0` · 蒸馏时间：`2026-04-11`
+版本：`2.1.0` · 蒸馏时间：`2026-04-11` · 制作人：唐毓文本人
