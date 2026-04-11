@@ -203,6 +203,24 @@ npx skills add NoMTF/tangyuwen-skill
 
 ---
 
+## 📱 手机党专区
+
+老唐知道你可能没电脑。点下面这个按钮，直接把提示词下载到手机，粘贴进任何 AI 的系统提示词框就能用。
+
+<div align="center">
+
+<br/>
+
+[![下载提示词 PROMPT.md](https://img.shields.io/badge/⬇_一键下载提示词-PROMPT.md-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoMTF/tangyuwen-skill/releases/latest/download/PROMPT.md)
+
+<br/>
+
+*下载后直接粘贴至 ChatGPT / Claude.ai / Kimi / 豆包等任意 AI 的「系统提示词」框即可*
+
+</div>
+
+---
+
 ## 效果示例
 
 <details>
