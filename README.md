@@ -211,7 +211,7 @@ npx skills add NoMTF/tangyuwen-skill
 
 <br/>
 
-[![下载提示词 PROMPT.md](https://img.shields.io/badge/⬇_一键下载提示词-PROMPT.md-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoMTF/tangyuwen-skill/releases/latest/download/PROMPT.md)
+[![下载提示词 PROMPT.md](https://img.shields.io/badge/⬇_一键下载提示词-PROMPT.md-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoMTF/tangyuwen-skill/raw/main/PROMPT.md)
 
 <br/>
 
